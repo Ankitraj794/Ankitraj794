@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Ankit Raj
 
-<!--
-**Ankitraj794/Ankitraj794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-raj-a68162426)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ankiit.this.side?igsh=eWphZ3I2bW8wcnR4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I am currently pursuing a **Bachelor of Science (B.Sc.)** at **Veer Kunwar Singh University (VKSU), Ara**, and building my career in **Data Analytics** through continuous learning and hands-on projects.
+
+I have developed practical skills in **Microsoft Excel, Power Query, and Power Pivot**, with experience in **data cleaning, transformation, data modeling, and interactive dashboard creation**. Currently, I am working on real-world Excel dashboard projects to build a strong portfolio and showcase my practical skills on LinkedIn.
+
+Alongside dashboard development, I am continuously learning **Power BI, SQL, Statistics, and Python** to strengthen my analytical and technical skills.
+
+I enjoy working with data, uncovering insights, and creating dashboards that help support data-driven decision-making. My goal is to begin my career as a **Data Analyst**, where I can apply my skills, keep learning, and contribute to solving real business problems.
