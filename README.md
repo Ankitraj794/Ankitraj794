@@ -11,7 +11,7 @@
 
 I am currently pursuing a **Bachelor of Science (B.Sc.)** at **Veer Kunwar Singh University (VKSU), Ara**, and building my career in **Data Analytics** through continuous learning and hands-on projects.
 
-I have developed practical skills in **Microsoft Excel, Power Query, and Power Pivot**, with experience in **data cleaning, transformation, data modeling, and interactive dashboard creation**. Currently, I am working on real-world Excel dashboard projects to build a strong portfolio and showcase my practical skills on LinkedIn.
+I have developed practical skills in **Microsoft Excel, Power Query, and Power Pivot**, with experience in **data cleaning, transformation, data modeling, and interactive dashboard creation**. Currently, I am working on real-world Excel dashboard projects to build a strong portfolio and showcase my practical skills on LinkedIn and GitHub.
 
 Alongside dashboard development, I am continuously learning **Power BI, SQL, Statistics, and Python** to strengthen my analytical and technical skills.
 
